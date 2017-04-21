@@ -1,0 +1,49 @@
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.csprojResolveAssemblyReference.cache
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.MainPage.xaml.g.cs
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.App.xaml.g.cs
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.dll
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.xml
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.pdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.xml
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.dll.mdb
+c:\users\fahad.bhatti\documents\visual studio 2015\Projects\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.dll.mdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.csprojResolveAssemblyReference.cache
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.MainPage.xaml.g.cs
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.App.xaml.g.cs
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.MyPage.xaml.g.cs
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.xml
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Plugin.Media.Abstractions.xml
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Core.xml
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.dll.mdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.dll.mdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\obj\Debug\ImageCropSample.dll.mdb
+D:\Source\ImageCropSample\ImageCropSample\ImageCropSample\bin\Debug\ImageCropSample.dll.mdb
